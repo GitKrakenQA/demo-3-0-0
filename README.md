@@ -12,3 +12,6 @@
 **Bug Fixes**:
 
 * Repository deletion should error if there is a file lock(s) preventing deletion
+
+
+**Enterprise**:
